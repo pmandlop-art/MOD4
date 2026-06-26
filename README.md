@@ -1,4 +1,4 @@
-<img width="300" height="150" alt="mermaid-diagram-2026-06-26-101846" src="https://github.com/user-attachments/assets/2b784fb1-0e4f-425b-a2fc-f0de602a34d0" /># FinAdvise - AI Personal Finance Assistant 💸
+<img width="300" height="150" alt="mermaid-diagram-2026-06-26-101846" src="https://github.com/user-attachments/assets/2b784fb1-0e4f-425b-a2fc-f0de602a34d0" />## FinAdvise - AI Personal Finance Assistant 💸
 
 **FinAdvise** es un asistente financiero inteligente y agéntico desarrollado en Python que simplifica la gestión del dinero y la consulta de mercados en tiempo real. 
 
