@@ -4,6 +4,8 @@
 
 A diferencia de los chatbots convencionales lineales, este sistema utiliza arquitecturas de IA avanzadas basadas en grafos de conocimiento y flujos de trabajo asíncronos para ofrecer respuestas dinámicas y adaptativas según el perfil del usuario.
 
+<img width="2105" height="1278" alt="image" src="https://github.com/user-attachments/assets/c4c5cb16-e14f-4aea-bffc-70c60c32b4a7" />
+
 https://github.com/user-attachments/assets/85776457-8eb9-45bf-b3f9-089ab28a3397
 
 ---
