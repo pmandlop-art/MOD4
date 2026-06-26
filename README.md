@@ -4,6 +4,8 @@
 
 A diferencia de los chatbots convencionales lineales, este sistema utiliza arquitecturas de IA avanzadas basadas en grafos de conocimiento y flujos de trabajo asíncronos para ofrecer respuestas dinámicas y adaptativas según el perfil del usuario.
 
+https://github.com/user-attachments/assets/85776457-8eb9-45bf-b3f9-089ab28a3397
+
 ---
 
 ## 🚀 Características Clave (Tech Stack & Capabilities)
